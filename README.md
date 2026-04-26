@@ -26,8 +26,11 @@ Antes de pedir para a IA "criar um app", é importante definir com clareza o que
 Um bom PRD deve descrever o problema, quem será beneficiado, as principais funcionalidades e o que você espera que a IA entregue. Use o modelo abaixo como ponto de partida e adapte conforme o seu estilo:
 
 ```txt
+Boa tarde!
+Gostaria que me ajudasse a revisar este meu PRD (Product Requirements Document), pois pretendo usá-lo no Lovable para exercitar minhas skills de Vibe Coding. Poderia me ajudar? Como resposta, me made o PRD revisado e sintetize de forma didética os conceitos de Vibe Coding e PRD, pois ainda estou aprendendo sobre eles!
+
 # Contexto
-Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário.  
+Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário em linguagem natural.
 A ideia é facilitar o controle financeiro de forma simples e natural, sem formulários manuais ou planilhas complexas.
 
 # Problema
