@@ -60,6 +60,7 @@ Poderia deixar claro que a solução deve ter um Design Universal, ou seja, que 
 # Prompt final no Copilot
 Após as demais interações para ajustes, incluir o seguinte prompt:
 
+
 ```txt
 Poderia me enviar o PRD como um snippet txt? É que eu gostaria de copiá-lo. além disso, use apenas markdown simples para formatar, nada de emojis.
 ```
@@ -226,21 +227,21 @@ Diretrizes:
 
 # Interações com o Lovable:
 
-'''txt
+```txt
 Crie um app de finanças pessoais com base no seguinte PRD (Product Requirements Document):
-'''
+```
 
-'''txt
+```txt
 Estilo visual: Soft Touch — companheiro amigável
-'''
+```
 
-'''txt
+```txt
 Poderia criar uma tela com login e senha de acesso?
-'''
+```
 
-'''txt
+```txt
 para qualquer senha que tentei cadastrar aparece a seguinte mensagem: password is known to be weak and easy to guess please choose a different one
-'''
+```
 
 Após, clicamos em Publicar.
 
