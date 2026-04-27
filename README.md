@@ -50,6 +50,9 @@ Pessoas que querem começar a organizar suas finanças de forma prática e sem c
 # Entregável da IA
 Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.  
 Usar tom educativo e linguagem acessível, em português.
+
+# Observações:
+Poderia deixar claro que a solução deve ter um Design Universal, ou seja, que possa ser utilizada com boa experiência pelo máximo de usuário possíveis. Me explique didaticamente também o conceito de Design Universal, por favor.
 ```
 
 Depois de preencher o modelo, use o Copilot Web para revisar e melhorar o seu prompt antes de ir ao Lovable. A ideia é lapidar o texto até que ele fique claro, direto e reflita exatamente a sua intenção.
